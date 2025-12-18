@@ -19,7 +19,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정
     {
       name: "CISB Detection Framework",
       description: "Developing an automated framework to detect security vulnerabilities (Compiler-Introduced Security Bugs) within the LLVM infrastructure.",
-      link: "https://medium.com/@selim0h",
+      link: "",
       skills: ["LLVM", "C++", "Security"],
     },
     {
