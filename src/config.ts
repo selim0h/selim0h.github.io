@@ -1,7 +1,7 @@
 export const siteConfig = { // 'config'에서 'siteConfig'로 수정
   name: "Selim Oh",
   title: "Computer Science & Engineering Student @ POSTECH",
-  description: "Systems Security & Compiler Optimization Researcher. Currently exploring Compiler-Introduced Security Bugs (CISBs) at POSTECH.",
+  description: "Systems Security & Compiler Optimization Researcher. Currently exploring Compiler-Introduced Security Bugs (CISBs) at <a href='https://compsec.postech.ac.kr/' target='_blank' class='underline underline-offset-4 hover:text-blue-600 transition-colors font-medium'>POSTECH Compsec Lab</a>.",
   accentColor: "#1d4ed8", 
   
   social: {
