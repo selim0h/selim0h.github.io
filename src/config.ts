@@ -45,7 +45,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정
       title: "Exchange Student",
       dateRange: "Jan 2025 - May 2025",
       bullets: [
-        "Completed CS164 (Compilers) and CS161 (Computer Security)."
+        "Completed CS164 (Programming Languages and Compilers)."
       ],
     }
   ],
@@ -57,7 +57,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정
       dateRange: "2021 - 2027 (Expected)",
       achievements: [
         "Focus on Systems and Security",
-        "Active member of Compsec Lab"
+        "Active member of <a href='https://compsec.postech.ac.kr/' target='_blank' class='underline underline-offset-4 hover:text-blue-600 transition-colors'>Compsec Lab</a>"
       ]
     }
   ]
