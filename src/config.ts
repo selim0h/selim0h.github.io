@@ -1,4 +1,4 @@
-export const siteConfig = { // 'config'에서 'siteConfig'로 수정되었습니다.
+export const siteConfig = { // 'config'에서 'siteConfig'로 수정
   name: "Selim Oh",
   title: "Computer Science & Engineering Student @ POSTECH",
   description: "Systems Security & Compiler Optimization Researcher. Currently exploring Compiler-Introduced Security Bugs (CISBs) at POSTECH.",
@@ -6,7 +6,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정되었습니
   
   social: {
     email: "selim0h@postech.ac.kr",
-    linkedin: "", // 링크가 있다면 넣으세요
+    linkedin: "",
     twitter: "", 
     github: "https://github.com/selim0h",
   },
@@ -19,20 +19,20 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정되었습니
     {
       name: "CISB Detection Framework",
       description: "Developing an automated framework to detect security vulnerabilities (Compiler-Introduced Security Bugs) within the LLVM infrastructure.",
-      link: "https://medium.com/@selim0h", // 본인 블로그 링크
+      link: "https://medium.com/@selim0h",
       skills: ["LLVM", "C++", "Security"],
     },
     {
       name: "LISP-like Compiler",
       description: "Implemented a full compiler for a LISP-like language during an exchange semester at UC Berkeley (CS164).",
-      link: "https://medium.com/@selim0h",
-      skills: ["Python", "Compilers"],
+      link: "",
+      skills: ["OCaml", "Compilers"],
     }
   ],
 
   experience: [
     {
-      company: "WEST Program (Cyber Security Track)",
+      company: "Korea-U.S. High-tech Youth Exchange Support Project (Cyber Security Track)",
       title: "Scholar",
       dateRange: "Nov 2024 - Present",
       bullets: [
@@ -45,8 +45,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정되었습니
       title: "Exchange Student",
       dateRange: "Jan 2025 - May 2025",
       bullets: [
-        "Completed CS164 (Compilers) and CS161 (Computer Security).",
-        "Engaged in system security and software engineering projects."
+        "Completed CS164 (Compilers) and CS161 (Computer Security)."
       ],
     }
   ],
@@ -58,7 +57,7 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정되었습니
       dateRange: "2021 - 2027 (Expected)",
       achievements: [
         "Focus on Systems and Security",
-        "Active member of security research group"
+        "Active member of Compsec Lab"
       ]
     }
   ]
