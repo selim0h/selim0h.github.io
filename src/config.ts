@@ -7,7 +7,6 @@ export const config = {
   social: {
     email: "selim0h@postech.ac.kr",
     linkedin: "https://linkedin.com/in/yourprofile", // 본인 링크로 수정
-    twitter: "", 
     github: "https://github.com/selim0h",
     medium: "https://medium.com/@selim0h", // 추가 가능
   },
