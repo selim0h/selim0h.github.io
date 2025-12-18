@@ -32,20 +32,20 @@ export const siteConfig = { // 'config'에서 'siteConfig'로 수정
 
   experience: [
     {
-      company: "Korea-U.S. High-tech Youth Exchange Support Project (Cyber Security Track)",
-      title: "Scholar",
-      dateRange: "Nov 2024 - Present",
-      bullets: [
-        "Selected as a scholar for the Korea-U.S. Student Exchange Program.",
-        "Focusing on advanced cybersecurity research and international collaboration."
-      ],
-    },
-    {
       company: "UC Berkeley",
       title: "Exchange Student",
       dateRange: "Jan 2025 - May 2025",
       bullets: [
         "Completed CS164 (Programming Languages and Compilers)."
+      ],
+    },
+    {
+      company: "Korea-U.S. High-tech Youth Exchange Support Project (Cyber Security Track)",
+      title: "Scholar",
+      dateRange: "Nov 2024",
+      bullets: [
+        "Selected as a scholar for the Korea-U.S. Student Exchange Program.",
+        "Focusing on advanced cybersecurity research and international collaboration."
       ],
     }
   ],
